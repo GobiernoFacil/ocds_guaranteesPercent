@@ -1,0 +1,21 @@
+
+{
+  "name": {
+    "en": "Guarantee Percent"
+  },
+  "description": {
+    "en": "Extend the guarantees ocds extension to add the percent that the guarantee represents of the total value of the contract"
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "documentationUrl": {
+    "en": "https://github.com/GobiernoFacil/ocds_guaranteesPercent_extension"
+  },
+  "dependencies": [
+    "https://raw.githubusercontent.com/INAImexico/ocds_guarantees_extension/master/release-schema.json"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}

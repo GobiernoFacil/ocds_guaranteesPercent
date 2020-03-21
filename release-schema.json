@@ -1,0 +1,13 @@
+{
+  "definitions" : {
+    "Guarantee" : {
+      "properties" : {
+        "percent" : {
+          "title" : "Percent",
+          "description" : "the percent that the guarantee represents of the total value of the contract",
+          "type" : ["number", "null"]
+        }
+      }
+    }
+  }
+}
